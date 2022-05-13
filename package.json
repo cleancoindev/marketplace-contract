@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@0x/contract-wrappers": "^13.6.3",
+    "@0x/contract-wrappers": "^13.20.0",
     "@0x/contracts-erc721": "^3.1.5",
     "@0x/contracts-exchange": "^3.2.7",
     "@0x/order-utils": "^10.2.4",
